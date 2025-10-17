@@ -6,9 +6,9 @@ Website **Mercy Showroom** adalah proyek web interaktif yang menampilkan koleksi
 
 ## 🪪 Identitas Proyek
 
-**Nama Proyek:** Mercedes Benz Showroom Car
-**Jenis Proyek:** Website Showcase / Showroom Car
-**Teknologi Utama:**
+**Nama Proyek:** Mercedes Benz Showroom Car <br>
+**Jenis Proyek:** Website Showcase / Showroom Car <br>
+**Teknologi Utama:** <br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -24,9 +24,11 @@ Website **Mercy Showroom** adalah proyek web interaktif yang menampilkan koleksi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
 </div>
 
+<br>
+
 **Developer:**
--> Frontend : Muhammad Dafa Adiwinata (@adzzz_2106)
--> Backend : Muhammad Daffa Athallah Aribawa (@daoao_)  
+-> Frontend : Muhammad Dafa Adiwinata (@adzzz_2106) <br>
+-> Backend : Muhammad Daffa Athallah Aribawa (@daoao_) <br>
 **Tahun Pembuatan:** 2025
 
 ---
