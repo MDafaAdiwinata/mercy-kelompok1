@@ -26,7 +26,7 @@ Website **Mercy Showroom** adalah proyek web interaktif yang menampilkan koleksi
 
 <br>
 
-**Developer:**
+**Developer:** <br>
 -> Frontend : Muhammad Dafa Adiwinata (@adzzz_2106) <br>
 -> Backend : Muhammad Daffa Athallah Aribawa (@daoao_) <br>
 **Tahun Pembuatan:** 2025
