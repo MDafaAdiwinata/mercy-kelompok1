@@ -58,6 +58,10 @@ Route::get('/user/profile', function () {
     return view('user.profile');
 });
 
+Route::get('/user/detail-mobil', function () {
+    return view('user.detail-mobil');
+});
+
 // Admin Routing
 Route::get('/admin/login', function () {
     return view('admin.login');
