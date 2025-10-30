@@ -13,14 +13,6 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <title>Home Mercedes Benz - Car Showroom</title>
-
-    <style>
-        .dot.active {
-            background-color: var(--txtPrimary);
-            transform: scale(1.25);
-        }
-    </style>
-
 </head>
 
 <body class="font-[montserrat]">
@@ -36,7 +28,7 @@
 
     <section id="home" class="relative w-full h-screen overflow-hidden snap-start">
         <video autoplay muted loop playsinline class="absolute top-0 left-0 w-full h-full object-cover">
-            <source src="{{ Vite::asset('resources/videos/jumbotron-video-landing-cinematic.mp4') }}" type="video/mp4">
+            <source src="{{ Vite::asset('resources/videos/mercy-video.mp4') }}" type="video/mp4">
             Your browser does not support the video tag.
         </video>
         <div class="absolute inset-0 bg-bgPrimary/50"></div>
@@ -55,7 +47,7 @@
 
     {{-- Car Populer Section --}}
 
-    <section id="carPopuler" class="bg-center bg-no-repeat bg-carPopuler h-screen flex items-center justify-start snap-start">
+    <section id="carPopuler" class="bg-center bg-carPopuler h-screen flex items-center justifiy-start">
         <div class="px-6 mx-auto container flex flex-col items-start justify-center py-24 lg:py-56">
             <h1 class="text-txtPrimary font-bold text-3xl lg:text-5xl xl:text-6xl">
                 The C-Class
